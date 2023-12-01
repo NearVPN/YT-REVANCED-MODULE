@@ -1,8 +1,8 @@
 # YT ReVanced Module
 
-[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/RabahX_Official)
-[![Download](https://img.shields.io/github/v/release/RabahX/YT-ReVanced-Module?color=blue&logoColor=white&label=Download&logo=DocuSign)](https://github.com/RabahX/YT-ReVanced-Module/releases/latest)
-[![Total](https://shields.io/github/downloads/RabahX/YT-ReVanced-Module/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/RabahX/YT-ReVanced-Module/releases)
+[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/@Near365)
+[![Download](https://img.shields.io/github/v/release/NearVPN/YT-ReVanced-Module?color=blue&logoColor=white&label=Download&logo=DocuSign)](https://github.com/NearVPN/YT-ReVanced-Module/releases/latest)
+[![Total](https://shields.io/github/downloads/NearVPN/YT-ReVanced-Module/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/NearVPN/YT-ReVanced-Module/releases)
 
 ## Introduction
 
